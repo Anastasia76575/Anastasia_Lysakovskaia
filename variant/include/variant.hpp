@@ -1,6 +1,6 @@
 /* Variant classes.
  * @file variant
- * @date 2020
+ * @date 
  * @author Anastasia
  */
 
