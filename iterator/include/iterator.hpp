@@ -1,6 +1,6 @@
 /* Image iterator.
  * @file
- * @date 2018-08-05
+ * @date 
  * @author Anastasia
  */
 
